@@ -1,0 +1,12 @@
+blazer
+hoodie
+jacket
+men_jean
+men_short
+pant
+tank
+dress
+leggy
+skirt
+women_jean
+women_short
